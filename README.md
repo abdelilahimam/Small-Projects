@@ -1,2 +1,2 @@
-# Weather-Dataset
-This is a beginner level data cleaning project, in which i worked on a dataset trying to figure out how to specifically work with pandas
+# Small Projects
+These are beginner level data cleaning projects, in which i worked on datasets trying to figure out how to work and navigate in pandas, numpy ... 
